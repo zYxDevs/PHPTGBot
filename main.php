@@ -1,6 +1,6 @@
 <?php
 
-require_once './PHPTGBot/PHPTelebot.php';
+require_once './src/PHPTelebot.php';
 $bot = new PHPTelebot('TOKEN', 'BOT_USERNAME'); // Bot username is optional, its required for handle command that contain username (/command@username) like on a group.
 
 // Simple command
