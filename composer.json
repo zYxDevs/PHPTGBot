@@ -1,0 +1,8 @@
+{
+    "name": "zYxDevs/PHPTGBot",
+    "type": "project",
+    "require": {
+        "php": ">=7.3",
+        "longman/telegram-bot": "*"
+    }
+}
