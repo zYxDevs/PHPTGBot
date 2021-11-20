@@ -11,6 +11,8 @@ Simple php telegram bot.
 ```
 Maybe found error, since im not tested yet!
 Still on working, so be patient!
+
+Im not piro bruh-_-
 ```
 
 
