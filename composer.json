@@ -6,4 +6,10 @@
         "longman/telegram-bot": "*",
         "radyakaze/phptelebot": "*"
     }
+    "autoload": {
+        "files": ["src/PHPTelebot.php"]
+        "psr-4": {
+            "Longman\\TelegramBot\\": "src"
+        }
+    }
 }
