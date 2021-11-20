@@ -1,4 +1,7 @@
 FROM php:7.4-cli
-COPY . /usr/src/myapp
-WORKDIR /usr/src/myapp
+COPY . .
+WORKDIR /PHPTGBot/
+RUN curl -sS https://getcomposer.org/installer | php
+RUN php composer.phar install
+RUN composer require longman/telegram-bot
 CMD [ "php", "./main.php" ]
