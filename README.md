@@ -18,12 +18,12 @@ Im not piro bruh-_-
 
 ## Features and To Do
 
-- [ ] Deployable on Heroku
-- [ ] Deployable on Railway
-- [ ] Deployable on Qovery
-- [x] Maintenance
-- [ ] Tested
-- [ ] Worked
+- [ ] Deployable on Heroku!
+- [ ] Deployable on Railway!
+- [ ] Deployable on Qovery!
+- [x] Deployable on 000webhost!
+- [x] Maintenance!
+- [x] Tested and Worked!
 
 
 ## Credits
